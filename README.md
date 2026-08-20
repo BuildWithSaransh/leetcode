@@ -57,3 +57,15 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 ---
 
 ⭐ If you find this repository useful, feel free to star it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/BuildWithSaransh/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/BuildWithSaransh/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+<!---LeetCode Topics End-->
