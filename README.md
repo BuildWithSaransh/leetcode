@@ -63,9 +63,18 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 ## Array
 |  |
 | ------- |
+| [2906-construct-product-matrix](https://github.com/BuildWithSaransh/leetcode/tree/master/2906-construct-product-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BuildWithSaransh/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BuildWithSaransh/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Matrix
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/BuildWithSaransh/leetcode/tree/master/2906-construct-product-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/BuildWithSaransh/leetcode/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
