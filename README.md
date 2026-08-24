@@ -77,4 +77,8 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 |  |
 | ------- |
 | [2906-construct-product-matrix](https://github.com/BuildWithSaransh/leetcode/tree/master/2906-construct-product-matrix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/BuildWithSaransh/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
