@@ -82,8 +82,14 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/BuildWithSaransh/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/BuildWithSaransh/leetcode/tree/master/0013-roman-to-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BuildWithSaransh/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/BuildWithSaransh/leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/BuildWithSaransh/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
