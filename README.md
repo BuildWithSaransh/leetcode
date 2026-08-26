@@ -63,6 +63,7 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BuildWithSaransh/leetcode/tree/master/0001-two-sum) |
 | [2906-construct-product-matrix](https://github.com/BuildWithSaransh/leetcode/tree/master/2906-construct-product-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BuildWithSaransh/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -81,4 +82,8 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/BuildWithSaransh/leetcode/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/BuildWithSaransh/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
