@@ -81,6 +81,7 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BuildWithSaransh/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/BuildWithSaransh/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/BuildWithSaransh/leetcode/tree/master/0013-roman-to-integer) |
 | [3099-harshad-number](https://github.com/BuildWithSaransh/leetcode/tree/master/3099-harshad-number) |
@@ -98,4 +99,12 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BuildWithSaransh/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/BuildWithSaransh/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/BuildWithSaransh/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
