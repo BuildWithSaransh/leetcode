@@ -83,6 +83,7 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 | ------- |
 | [0009-palindrome-number](https://github.com/BuildWithSaransh/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/BuildWithSaransh/leetcode/tree/master/0013-roman-to-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/BuildWithSaransh/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +93,8 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BuildWithSaransh/leetcode/tree/master/0013-roman-to-integer) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/BuildWithSaransh/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
