@@ -65,6 +65,7 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 | ------- |
 | [0001-two-sum](https://github.com/BuildWithSaransh/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BuildWithSaransh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/BuildWithSaransh/leetcode/tree/master/0027-remove-element) |
 | [2906-construct-product-matrix](https://github.com/BuildWithSaransh/leetcode/tree/master/2906-construct-product-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BuildWithSaransh/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -126,4 +127,5 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BuildWithSaransh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/BuildWithSaransh/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
