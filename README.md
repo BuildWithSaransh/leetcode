@@ -99,6 +99,7 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BuildWithSaransh/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/BuildWithSaransh/leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/BuildWithSaransh/leetcode/tree/master/0205-isomorphic-strings) |
 ## Enumeration
 |  |
@@ -131,4 +132,12 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BuildWithSaransh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BuildWithSaransh/leetcode/tree/master/0027-remove-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/BuildWithSaransh/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/BuildWithSaransh/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
