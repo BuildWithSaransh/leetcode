@@ -66,6 +66,7 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 | [0001-two-sum](https://github.com/BuildWithSaransh/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BuildWithSaransh/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BuildWithSaransh/leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/BuildWithSaransh/leetcode/tree/master/0049-group-anagrams) |
 | [2906-construct-product-matrix](https://github.com/BuildWithSaransh/leetcode/tree/master/2906-construct-product-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BuildWithSaransh/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -94,12 +95,14 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 | ------- |
 | [0001-two-sum](https://github.com/BuildWithSaransh/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/BuildWithSaransh/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/BuildWithSaransh/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/BuildWithSaransh/leetcode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BuildWithSaransh/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/BuildWithSaransh/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/BuildWithSaransh/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/BuildWithSaransh/leetcode/tree/master/0205-isomorphic-strings) |
 ## Enumeration
 |  |
@@ -140,4 +143,8 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BuildWithSaransh/leetcode/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/BuildWithSaransh/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
