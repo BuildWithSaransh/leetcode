@@ -97,6 +97,7 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 | [0013-roman-to-integer](https://github.com/BuildWithSaransh/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/BuildWithSaransh/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/BuildWithSaransh/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/BuildWithSaransh/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 | [0020-valid-parentheses](https://github.com/BuildWithSaransh/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/BuildWithSaransh/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/BuildWithSaransh/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/BuildWithSaransh/leetcode/tree/master/0242-valid-anagram) |
 ## Enumeration
 |  |
 | ------- |
@@ -147,4 +149,5 @@ My solutions are based on problems from [LeetCode](https://leetcode.com/).
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/BuildWithSaransh/leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/BuildWithSaransh/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
